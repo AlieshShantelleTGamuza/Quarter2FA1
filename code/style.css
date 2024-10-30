@@ -1,0 +1,14 @@
+    body {
+        text-align: center;
+        margin: 0 15%;
+        width: 75%;
+        border: 2px solid blue;
+    }
+    
+    h1, h2 {
+        background-color: lightgray;
+        margin-top: 20px;
+        margin: 0;
+        padding: 0;
+    }
+    
